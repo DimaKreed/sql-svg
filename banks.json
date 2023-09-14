@@ -1,0 +1,5426 @@
+[
+  {
+    "first": "410247",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "422605",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "423719",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "536364",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "543259",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "544904",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "547994",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "411948",
+    "name": "Креді Агріколь Банк",
+    "nameEng": "Credit Agricole",
+    "bank_id": 1
+  },
+  {
+    "first": "512439",
+    "name": "Креді Агріколь Банк",
+    "nameEng": "Credit Agricole",
+    "bank_id": 1
+  },
+  {
+    "first": "519745",
+    "name": "Креді Агріколь Банк",
+    "nameEng": "Credit Agricole",
+    "bank_id": 1
+  },
+  {
+    "first": "520662",
+    "name": "Креді Агріколь Банк",
+    "nameEng": "Credit Agricole",
+    "bank_id": 1
+  },
+  {
+    "first": "525822",
+    "name": "Креді Агріколь Банк",
+    "nameEng": "Credit Agricole",
+    "bank_id": 1
+  },
+  {
+    "first": "423174",
+    "name": "Діамантбанк",
+    "nameEng": "Diamantbank",
+    "bank_id": 2
+  },
+  {
+    "first": "429453",
+    "name": "Діамантбанк",
+    "nameEng": "Diamantbank",
+    "bank_id": 2
+  },
+  {
+    "first": "467936",
+    "name": "Діамантбанк",
+    "nameEng": "Diamantbank",
+    "bank_id": 2
+  },
+  {
+    "first": "438253",
+    "name": "Кредобанк",
+    "nameEng": "KredoBank",
+    "bank_id": 3
+  },
+  {
+    "first": "515662",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "545265",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "555952",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "557744",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "406760",
+    "name": "OTP Bank",
+    "nameEng": "OTP Bank",
+    "bank_id": 5
+  },
+  {
+    "first": "406788",
+    "name": "OTP Bank",
+    "nameEng": "OTP Bank",
+    "bank_id": 5
+  },
+  {
+    "first": "411749",
+    "name": "OTP Bank",
+    "nameEng": "OTP Bank",
+    "bank_id": 5
+  },
+  {
+    "first": "416955",
+    "name": "OTP Bank",
+    "nameEng": "OTP Bank",
+    "bank_id": 5
+  },
+  {
+    "first": "436323",
+    "name": "OTP Bank",
+    "nameEng": "OTP Bank",
+    "bank_id": 5
+  },
+  {
+    "first": "471362",
+    "name": "OTP Bank",
+    "nameEng": "OTP Bank",
+    "bank_id": 5
+  },
+  {
+    "first": "528534",
+    "name": "OTP Bank",
+    "nameEng": "OTP Bank",
+    "bank_id": 5
+  },
+  {
+    "first": "533194",
+    "name": "OTP Bank",
+    "nameEng": "OTP Bank",
+    "bank_id": 5
+  },
+  {
+    "first": "546886",
+    "name": "OTP Bank",
+    "nameEng": "OTP Bank",
+    "bank_id": 5
+  },
+  {
+    "first": "547266",
+    "name": "OTP Bank",
+    "nameEng": "OTP Bank",
+    "bank_id": 5
+  },
+  {
+    "first": "404764",
+    "name": "ПРАВЕКС-БАНК",
+    "nameEng": "PRAVEX-BANK",
+    "bank_id": 6
+  },
+  {
+    "first": "405247",
+    "name": "ПРАВЕКС-БАНК",
+    "nameEng": "PRAVEX-BANK",
+    "bank_id": 6
+  },
+  {
+    "first": "409089",
+    "name": "ПРАВЕКС-БАНК",
+    "nameEng": "PRAVEX-BANK",
+    "bank_id": 6
+  },
+  {
+    "first": "409388",
+    "name": "ПРАВЕКС-БАНК",
+    "nameEng": "PRAVEX-BANK",
+    "bank_id": 6
+  },
+  {
+    "first": "409625",
+    "name": "ПРАВЕКС-БАНК",
+    "nameEng": "PRAVEX-BANK",
+    "bank_id": 6
+  },
+  {
+    "first": "409881",
+    "name": "ПРАВЕКС-БАНК",
+    "nameEng": "PRAVEX-BANK",
+    "bank_id": 6
+  },
+  {
+    "first": "461278",
+    "name": "ПРАВЕКС-БАНК",
+    "nameEng": "PRAVEX-BANK",
+    "bank_id": 6
+  },
+  {
+    "first": "536444",
+    "name": "ПРАВЕКС-БАНК",
+    "nameEng": "PRAVEX-BANK",
+    "bank_id": 6
+  },
+  {
+    "first": "541701",
+    "name": "ПРАВЕКС-БАНК",
+    "nameEng": "PRAVEX-BANK",
+    "bank_id": 6
+  },
+  {
+    "first": "544142",
+    "name": "ПРАВЕКС-БАНК",
+    "nameEng": "PRAVEX-BANK",
+    "bank_id": 6
+  },
+  {
+    "first": "552670",
+    "name": "ПРАВЕКС-БАНК",
+    "nameEng": "PRAVEX-BANK",
+    "bank_id": 6
+  },
+  {
+    "first": "676274",
+    "name": "ПРАВЕКС-БАНК",
+    "nameEng": "PRAVEX-BANK",
+    "bank_id": 6
+  },
+  {
+    "first": "410653",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "414949",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "414960",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "414962",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "414963",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "423396",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "424600",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "432575",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "434158",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "440509",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "440535",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "440588",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "458122",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "462708",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "473118",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "473121",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "475538",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "476339",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "516798",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "516874",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "516875",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "516933",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "521153",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "521857",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "530217",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "532957",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "536354",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "544457",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "545709",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "552324",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "558335",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "558424",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "417679",
+    "name": "ПроКредит Банк",
+    "nameEng": "ProCredit Bank",
+    "bank_id": 8
+  },
+  {
+    "first": "433424",
+    "name": "ПроКредит Банк",
+    "nameEng": "ProCredit Bank",
+    "bank_id": 8
+  },
+  {
+    "first": "404170",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "406660",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "412717",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "419316",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "428337",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "431437",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "482415",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "510117",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "510536",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "512647",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "516059",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "516750",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "518778",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "518985",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "520173",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "521327",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "521514",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "521762",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "521832",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "523778",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "524729",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "524814",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "525410",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "525493",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "526858",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "530186",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "530359",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "533686",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "533731",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "537003",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "538814",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "539715",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "540892",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "540953",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "541271",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "542171",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "542521",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "544044",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "544187",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "545219",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "547650",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "548343",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "548919",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "549385",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "550250",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "552154",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "552611",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "553045",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "553053",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "557104",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "558262",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "558381",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "558591",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "670604",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "670832",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "676622",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "676652",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "676700",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "677210",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "677567",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "677701",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "413062",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "414953",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "418844",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "423843",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "462775",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "512070",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "512557",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "512572",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "516913",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "518808",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "529919",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "532457",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "535160",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "536502",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "542465",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "543155",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "543759",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "545253",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "548658",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "548968",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "552657",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "557723",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "557881",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "403520",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "406337",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "423297",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "427705",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "440272",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "478766",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "510140",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "515855",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "516882",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "518720",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "522473",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "522766",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "522872",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "523473",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "524876",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "527598",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "528953",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "529801",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "530004",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "530094",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "536270",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "539897",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "540381",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "540682",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "541740",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "541940",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "542031",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "543205",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "544510",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "547390",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "547734",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "547762",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "548390",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "548766",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "550617",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "552247",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "552571",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "552624",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "552735",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "553465",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "554966",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "557833",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "558311",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "558797",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "676895",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "676965",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "677046",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "677279",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "677325",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "677613",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "401800",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "403471",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "510449",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "512100",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "512743",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "516854",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "517725",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "517818",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "518654",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "521833",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "522654",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "522797",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "522967",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "524872",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "525672",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "525792",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "527412",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "528812",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "531007",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "531725",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "532343",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "539845",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "540305",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "540617",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "540637",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "543438",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "547313",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "547914",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "548883",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "549146",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "549582",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "549824",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "549896",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "553391",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "557110",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "670651",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "670669",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "670877",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "671103",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "677237",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "677490",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "407361",
+    "name": "УКРСИББАНК",
+    "nameEng": "Ukrsibbank",
+    "bank_id": 13
+  },
+  {
+    "first": "407368",
+    "name": "УКРСИББАНК",
+    "nameEng": "Ukrsibbank",
+    "bank_id": 13
+  },
+  {
+    "first": "417232",
+    "name": "УКРСИББАНК",
+    "nameEng": "Ukrsibbank",
+    "bank_id": 13
+  },
+  {
+    "first": "427830",
+    "name": "УКРСИББАНК",
+    "nameEng": "Ukrsibbank",
+    "bank_id": 13
+  },
+  {
+    "first": "434343",
+    "name": "УКРСИББАНК",
+    "nameEng": "Ukrsibbank",
+    "bank_id": 13
+  },
+  {
+    "first": "516930",
+    "name": "УКРСИББАНК",
+    "nameEng": "Ukrsibbank",
+    "bank_id": 13
+  },
+  {
+    "first": "529578",
+    "name": "УКРСИББАНК",
+    "nameEng": "Ukrsibbank",
+    "bank_id": 13
+  },
+  {
+    "first": "533037",
+    "name": "УКРСИББАНК",
+    "nameEng": "Ukrsibbank",
+    "bank_id": 13
+  },
+  {
+    "first": "535129",
+    "name": "УКРСИББАНК",
+    "nameEng": "Ukrsibbank",
+    "bank_id": 13
+  },
+  {
+    "first": "402191",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "417284",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "431153",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "476009",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "487412",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "408339",
+    "name": "ЮниКредит Банк",
+    "nameEng": "UniCredit Bank",
+    "bank_id": 15
+  },
+  {
+    "first": "430333",
+    "name": "ЮниКредит Банк",
+    "nameEng": "UniCredit Bank",
+    "bank_id": 15
+  },
+  {
+    "first": "430364",
+    "name": "ЮниКредит Банк",
+    "nameEng": "UniCredit Bank",
+    "bank_id": 15
+  },
+  {
+    "first": "432109",
+    "name": "ЮниКредит Банк",
+    "nameEng": "UniCredit Bank",
+    "bank_id": 15
+  },
+  {
+    "first": "487410",
+    "name": "ЮниКредит Банк",
+    "nameEng": "UniCredit Bank",
+    "bank_id": 15
+  },
+  {
+    "first": "510467",
+    "name": "ЮниКредит Банк",
+    "nameEng": "UniCredit Bank",
+    "bank_id": 15
+  },
+  {
+    "first": "512789",
+    "name": "ЮниКредит Банк",
+    "nameEng": "UniCredit Bank",
+    "bank_id": 15
+  },
+  {
+    "first": "515794",
+    "name": "ЮниКредит Банк",
+    "nameEng": "UniCredit Bank",
+    "bank_id": 15
+  },
+  {
+    "first": "518282",
+    "name": "ЮниКредит Банк",
+    "nameEng": "UniCredit Bank",
+    "bank_id": 15
+  },
+  {
+    "first": "525759",
+    "name": "ЮниКредит Банк",
+    "nameEng": "UniCredit Bank",
+    "bank_id": 15
+  },
+  {
+    "first": "546644",
+    "name": "ЮниКредит Банк",
+    "nameEng": "UniCredit Bank",
+    "bank_id": 15
+  },
+  {
+    "first": "553091",
+    "name": "ЮниКредит Банк",
+    "nameEng": "UniCredit Bank",
+    "bank_id": 15
+  },
+  {
+    "first": "444111",
+    "name": "Монобанк",
+    "nameEng": "Monobank",
+    "bank_id": 16
+  },
+  {
+    "first": "537541",
+    "name": "Монобанк",
+    "nameEng": "Monobank",
+    "bank_id": 16
+  },
+  {
+    "first": "535507",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "414943",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "421113",
+    "name": "БАНК КРЕДИТ ДНЕПР",
+    "nameEng": "CREDIT-DNEPR",
+    "bank_id": 17
+  },
+  {
+    "first": "535466",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "414950",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "516749",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "536639",
+    "name": "ТАСКОМБАНК",
+    "nameEng": "TASCOMBANK",
+    "bank_id": 18
+  },
+  {
+    "first": "516936",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "410245",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "430653",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "545708",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "535249",
+    "name": "ТАСКОМБАНК",
+    "nameEng": "TASCOMBANK",
+    "bank_id": 18
+  },
+  {
+    "first": "439023",
+    "name": "Креді Агріколь Банк",
+    "nameEng": "Credit Agricole",
+    "bank_id": 1
+  },
+  {
+    "first": "418837",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "535557",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "410232",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "479070",
+    "name": "ТАСКОМБАНК",
+    "nameEng": "TASCOMBANK",
+    "bank_id": 18
+  },
+  {
+    "first": "535528",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "516915",
+    "name": "А-Банк",
+    "nameEng": "AKTSENT BANK",
+    "bank_id": 19
+  },
+  {
+    "first": "414951",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "516887",
+    "name": "OTP Bank",
+    "nameEng": "OTP Bank",
+    "bank_id": 5
+  },
+  {
+    "first": "479082",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "516818",
+    "name": "БАНК ВОСТОК",
+    "nameEng": "Bank Vostok",
+    "bank_id": 20
+  },
+  {
+    "first": "516783",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "440271",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "535465",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "535432",
+    "name": "УКРСИББАНК",
+    "nameEng": "Ukrsibbank",
+    "bank_id": 13
+  },
+  {
+    "first": "467808",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "535136",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "510094",
+    "name": "OTP Bank",
+    "nameEng": "OTP Bank",
+    "bank_id": 5
+  },
+  {
+    "first": "479751",
+    "name": "OTP Bank",
+    "nameEng": "OTP Bank",
+    "bank_id": 5
+  },
+  {
+    "first": "403021",
+    "name": "КОНКОРД",
+    "nameEng": "CONCORD",
+    "bank_id": 21
+  },
+  {
+    "first": "537598",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "516939",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "402901",
+    "name": "Полтава-банк",
+    "nameEng": "POLTAVA BANK",
+    "bank_id": 23
+  },
+  {
+    "first": "670635",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "535517",
+    "name": "Кредобанк",
+    "nameEng": "KredoBank",
+    "bank_id": 3
+  },
+  {
+    "first": "431414",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "428308",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "413281",
+    "name": "КЛІРИНГОВИЙ ДІМ",
+    "nameEng": "CLEARING HOUSE",
+    "bank_id": 24
+  },
+  {
+    "first": "411997",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "431403",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "479072",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "413418",
+    "name": "ТАСКОМБАНК",
+    "nameEng": "TASCOMBANK",
+    "bank_id": 18
+  },
+  {
+    "first": "516800",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "432335",
+    "name": "А-Банк",
+    "nameEng": "AKTSENT BANK",
+    "bank_id": 19
+  },
+  {
+    "first": "537523",
+    "name": "А-Банк",
+    "nameEng": "AKTSENT BANK",
+    "bank_id": 19
+  },
+  {
+    "first": "516812",
+    "name": "БАНК ВОСТОК",
+    "nameEng": "Bank Vostok",
+    "bank_id": 20
+  },
+  {
+    "first": "516780",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "516754",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "414941",
+    "name": "Монобанк",
+    "nameEng": "Monobank",
+    "bank_id": 16
+  },
+  {
+    "first": "516759",
+    "name": "Креді Агріколь Банк",
+    "nameEng": "Credit Agricole",
+    "bank_id": 1
+  },
+  {
+    "first": "414939",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "496680",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "516791",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "420366",
+    "name": "Банк Богуслав",
+    "nameEng": "BANK BOHUSLAV",
+    "bank_id": 25
+  },
+  {
+    "first": "420367",
+    "name": "Банк Богуслав",
+    "nameEng": "BANK BOHUSLAV",
+    "bank_id": 25
+  },
+  {
+    "first": "420368",
+    "name": "Банк Богуслав",
+    "nameEng": "BANK BOHUSLAV",
+    "bank_id": 25
+  },
+  {
+    "first": "420369",
+    "name": "Банк Богуслав",
+    "nameEng": "BANK BOHUSLAV",
+    "bank_id": 25
+  },
+  {
+    "first": "413051",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "414961",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "417649",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "424657",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "434156",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "458121",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "462705",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "473117",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "476065",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "456095",
+    "name": "Ситибанк",
+    "nameEng": "CITIBANK",
+    "bank_id": 26
+  },
+  {
+    "first": "456096",
+    "name": "Ситибанк",
+    "nameEng": "CITIBANK",
+    "bank_id": 26
+  },
+  {
+    "first": "456097",
+    "name": "Ситибанк",
+    "nameEng": "CITIBANK",
+    "bank_id": 26
+  },
+  {
+    "first": "456098",
+    "name": "Ситибанк",
+    "nameEng": "CITIBANK",
+    "bank_id": 26
+  },
+  {
+    "first": "432336",
+    "name": "А-Банк",
+    "nameEng": "AKTSENT BANK",
+    "bank_id": 19
+  },
+  {
+    "first": "432337",
+    "name": "А-Банк",
+    "nameEng": "AKTSENT BANK",
+    "bank_id": 19
+  },
+  {
+    "first": "432338",
+    "name": "А-Банк",
+    "nameEng": "AKTSENT BANK",
+    "bank_id": 19
+  },
+  {
+    "first": "432339",
+    "name": "А-Банк",
+    "nameEng": "AKTSENT BANK",
+    "bank_id": 19
+  },
+  {
+    "first": "432340",
+    "name": "А-Банк",
+    "nameEng": "AKTSENT BANK",
+    "bank_id": 19
+  },
+  {
+    "first": "427218",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "442167",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "417352",
+    "name": "БАНК ВОСТОК",
+    "nameEng": "Bank Vostok",
+    "bank_id": 20
+  },
+  {
+    "first": "421855",
+    "name": "БАНК ВОСТОК",
+    "nameEng": "Bank Vostok",
+    "bank_id": 20
+  },
+  {
+    "first": "445488",
+    "name": "КРЕДИТВЕСТ БАНК",
+    "nameEng": "Creditwest Bank",
+    "bank_id": 27
+  },
+  {
+    "first": "413282",
+    "name": "КЛІРИНГОВИЙ ДІМ",
+    "nameEng": "CLEARING HOUSE",
+    "bank_id": 24
+  },
+  {
+    "first": "413283",
+    "name": "КЛІРИНГОВИЙ ДІМ",
+    "nameEng": "CLEARING HOUSE",
+    "bank_id": 24
+  },
+  {
+    "first": "413284",
+    "name": "КЛІРИНГОВИЙ ДІМ",
+    "nameEng": "CLEARING HOUSE",
+    "bank_id": 24
+  },
+  {
+    "first": "484173",
+    "name": "КЛІРИНГОВИЙ ДІМ",
+    "nameEng": "CLEARING HOUSE",
+    "bank_id": 24
+  },
+  {
+    "first": "413285",
+    "name": "КЛІРИНГОВИЙ ДІМ",
+    "nameEng": "CLEARING HOUSE",
+    "bank_id": 24
+  },
+  {
+    "first": "423394",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "423395",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "434157",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "458120",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "473119",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "429714",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "421114",
+    "name": "БАНК КРЕДИТ ДНЕПР",
+    "nameEng": "CREDIT-DNEPR",
+    "bank_id": 17
+  },
+  {
+    "first": "421115",
+    "name": "БАНК КРЕДИТ ДНЕПР",
+    "nameEng": "CREDIT-DNEPR",
+    "bank_id": 17
+  },
+  {
+    "first": "421116",
+    "name": "БАНК КРЕДИТ ДНЕПР",
+    "nameEng": "CREDIT-DNEPR",
+    "bank_id": 17
+  },
+  {
+    "first": "421117",
+    "name": "БАНК КРЕДИТ ДНЕПР",
+    "nameEng": "CREDIT-DNEPR",
+    "bank_id": 17
+  },
+  {
+    "first": "424349",
+    "name": "БАНК КРЕДИТ ДНЕПР",
+    "nameEng": "CREDIT-DNEPR",
+    "bank_id": 17
+  },
+  {
+    "first": "471419",
+    "name": "БАНК КРЕДИТ ДНЕПР",
+    "nameEng": "CREDIT-DNEPR",
+    "bank_id": 17
+  },
+  {
+    "first": "401856",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "406659",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "416926",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "419313",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "419314",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "419315",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "431435",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "431436",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "486819",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "486820",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "487424",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "406115",
+    "name": "Форвард Банк",
+    "nameEng": "FORWARD BANK",
+    "bank_id": 29
+  },
+  {
+    "first": "406116",
+    "name": "Форвард Банк",
+    "nameEng": "FORWARD BANK",
+    "bank_id": 29
+  },
+  {
+    "first": "406117",
+    "name": "Форвард Банк",
+    "nameEng": "FORWARD BANK",
+    "bank_id": 29
+  },
+  {
+    "first": "424173",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "424174",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "424175",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "424176",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "424177",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "427767",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "433341",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "487407",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "431184",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "431186",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "431187",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "431188",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "407367",
+    "name": "УКРСИББАНК",
+    "nameEng": "Ukrsibbank",
+    "bank_id": 13
+  },
+  {
+    "first": "429450",
+    "name": "Діамантбанк",
+    "nameEng": "Diamantbank",
+    "bank_id": 2
+  },
+  {
+    "first": "429451",
+    "name": "Діамантбанк",
+    "nameEng": "Diamantbank",
+    "bank_id": 2
+  },
+  {
+    "first": "429452",
+    "name": "Діамантбанк",
+    "nameEng": "Diamantbank",
+    "bank_id": 2
+  },
+  {
+    "first": "400629",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "402961",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "402962",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "402963",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "402964",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "404020",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "429966",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "429967",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "429968",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "430270",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "448393",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "448394",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "448780",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "465368",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "465369",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "465370",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "489175",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "402902",
+    "name": "Полтава-банк",
+    "nameEng": "POLTAVA BANK",
+    "bank_id": 23
+  },
+  {
+    "first": "402903",
+    "name": "Полтава-банк",
+    "nameEng": "POLTAVA BANK",
+    "bank_id": 23
+  },
+  {
+    "first": "402904",
+    "name": "Полтава-банк",
+    "nameEng": "POLTAVA BANK",
+    "bank_id": 23
+  },
+  {
+    "first": "424171",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "435570",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "477990",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "477991",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "477992",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "477993",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "402511",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "424172",
+    "name": "Кредобанк",
+    "nameEng": "KredoBank",
+    "bank_id": 3
+  },
+  {
+    "first": "432457",
+    "name": "Кредобанк",
+    "nameEng": "KredoBank",
+    "bank_id": 3
+  },
+  {
+    "first": "432458",
+    "name": "Кредобанк",
+    "nameEng": "KredoBank",
+    "bank_id": 3
+  },
+  {
+    "first": "432459",
+    "name": "Кредобанк",
+    "nameEng": "KredoBank",
+    "bank_id": 3
+  },
+  {
+    "first": "435624",
+    "name": "Піреус Банк",
+    "nameEng": "PIRAEUS BANK",
+    "bank_id": 30
+  },
+  {
+    "first": "435625",
+    "name": "Піреус Банк",
+    "nameEng": "PIRAEUS BANK",
+    "bank_id": 30
+  },
+  {
+    "first": "420470",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "429552",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "435235",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "438927",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "452437",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "457635",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "457636",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "457639",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "457640",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "479088",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "479093",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "479094",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "479095",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "479096",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "430362",
+    "name": "ЮниКредит Банк",
+    "nameEng": "UniCredit Bank",
+    "bank_id": 15
+  },
+  {
+    "first": "430363",
+    "name": "ЮниКредит Банк",
+    "nameEng": "UniCredit Bank",
+    "bank_id": 15
+  },
+  {
+    "first": "430365",
+    "name": "ЮниКредит Банк",
+    "nameEng": "UniCredit Bank",
+    "bank_id": 15
+  },
+  {
+    "first": "444232",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "444233",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "444234",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "444235",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "444236",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "444237",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "444900",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "471221",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "409880",
+    "name": "ПРАВЕКС-БАНК",
+    "nameEng": "PRAVEX-BANK",
+    "bank_id": 6
+  },
+  {
+    "first": "461275",
+    "name": "ПРАВЕКС-БАНК",
+    "nameEng": "PRAVEX-BANK",
+    "bank_id": 6
+  },
+  {
+    "first": "404877",
+    "name": "БАНК ФАМІЛЬНИЙ",
+    "nameEng": "BANK FAMILNY",
+    "bank_id": 31
+  },
+  {
+    "first": "404878",
+    "name": "БАНК ФАМІЛЬНИЙ",
+    "nameEng": "BANK FAMILNY",
+    "bank_id": 31
+  },
+  {
+    "first": "404879",
+    "name": "БАНК ФАМІЛЬНИЙ",
+    "nameEng": "BANK FAMILNY",
+    "bank_id": 31
+  },
+  {
+    "first": "404880",
+    "name": "БАНК ФАМІЛЬНИЙ",
+    "nameEng": "BANK FAMILNY",
+    "bank_id": 31
+  },
+  {
+    "first": "487485",
+    "name": "Національний банк України",
+    "nameEng": "NATIONAL BANK OF UKRAINE",
+    "bank_id": 32
+  },
+  {
+    "first": "402889",
+    "name": "Универсал Банк",
+    "nameEng": "UNIVERSAL BANK",
+    "bank_id": 33
+  },
+  {
+    "first": "438383",
+    "name": "Универсал Банк",
+    "nameEng": "UNIVERSAL BANK",
+    "bank_id": 33
+  },
+  {
+    "first": "444036",
+    "name": "Универсал Банк",
+    "nameEng": "UNIVERSAL BANK",
+    "bank_id": 33
+  },
+  {
+    "first": "444037",
+    "name": "Универсал Банк",
+    "nameEng": "UNIVERSAL BANK",
+    "bank_id": 33
+  },
+  {
+    "first": "444038",
+    "name": "Универсал Банк",
+    "nameEng": "UNIVERSAL BANK",
+    "bank_id": 33
+  },
+  {
+    "first": "444039",
+    "name": "Универсал Банк",
+    "nameEng": "UNIVERSAL BANK",
+    "bank_id": 33
+  },
+  {
+    "first": "444040",
+    "name": "Универсал Банк",
+    "nameEng": "UNIVERSAL BANK",
+    "bank_id": 33
+  },
+  {
+    "first": "444041",
+    "name": "Универсал Банк",
+    "nameEng": "UNIVERSAL BANK",
+    "bank_id": 33
+  },
+  {
+    "first": "444042",
+    "name": "Универсал Банк",
+    "nameEng": "UNIVERSAL BANK",
+    "bank_id": 33
+  },
+  {
+    "first": "472931",
+    "name": "Универсал Банк",
+    "nameEng": "UNIVERSAL BANK",
+    "bank_id": 33
+  },
+  {
+    "first": "472932",
+    "name": "Универсал Банк",
+    "nameEng": "UNIVERSAL BANK",
+    "bank_id": 33
+  },
+  {
+    "first": "410332",
+    "name": "ПЕРШИЙ ІНВЕСТИЦІЙНИЙ БАНК",
+    "nameEng": "FIRST INVESTMENT BANK",
+    "bank_id": 34
+  },
+  {
+    "first": "424511",
+    "name": "ПЕРШИЙ ІНВЕСТИЦІЙНИЙ БАНК",
+    "nameEng": "FIRST INVESTMENT BANK",
+    "bank_id": 34
+  },
+  {
+    "first": "438146",
+    "name": "ПЕРШИЙ ІНВЕСТИЦІЙНИЙ БАНК",
+    "nameEng": "FIRST INVESTMENT BANK",
+    "bank_id": 34
+  },
+  {
+    "first": "438147",
+    "name": "ПЕРШИЙ ІНВЕСТИЦІЙНИЙ БАНК",
+    "nameEng": "FIRST INVESTMENT BANK",
+    "bank_id": 34
+  },
+  {
+    "first": "438148",
+    "name": "ПЕРШИЙ ІНВЕСТИЦІЙНИЙ БАНК",
+    "nameEng": "FIRST INVESTMENT BANK",
+    "bank_id": 34
+  },
+  {
+    "first": "438150",
+    "name": "ПЕРШИЙ ІНВЕСТИЦІЙНИЙ БАНК",
+    "nameEng": "FIRST INVESTMENT BANK",
+    "bank_id": 34
+  },
+  {
+    "first": "445586",
+    "name": "МОТОР-БАНК",
+    "nameEng": "MOTOR BANK",
+    "bank_id": 35
+  },
+  {
+    "first": "445587",
+    "name": "МОТОР-БАНК",
+    "nameEng": "MOTOR BANK",
+    "bank_id": 35
+  },
+  {
+    "first": "406759",
+    "name": "OTP Bank",
+    "nameEng": "OTP Bank",
+    "bank_id": 5
+  },
+  {
+    "first": "410336",
+    "name": "OTP Bank",
+    "nameEng": "OTP Bank",
+    "bank_id": 5
+  },
+  {
+    "first": "410337",
+    "name": "OTP Bank",
+    "nameEng": "OTP Bank",
+    "bank_id": 5
+  },
+  {
+    "first": "416954",
+    "name": "OTP Bank",
+    "nameEng": "OTP Bank",
+    "bank_id": 5
+  },
+  {
+    "first": "402808",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "406622",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "410242",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "410243",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "410244",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "410246",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "444424",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "446670",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "466065",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "457733",
+    "name": "БАНК 3/4",
+    "nameEng": "BANK 3/4",
+    "bank_id": 36
+  },
+  {
+    "first": "457734",
+    "name": "БАНК 3/4",
+    "nameEng": "BANK 3/4",
+    "bank_id": 36
+  },
+  {
+    "first": "457735",
+    "name": "БАНК 3/4",
+    "nameEng": "BANK 3/4",
+    "bank_id": 36
+  },
+  {
+    "first": "457736",
+    "name": "БАНК 3/4",
+    "nameEng": "BANK 3/4",
+    "bank_id": 36
+  },
+  {
+    "first": "419323",
+    "name": "БАНК ІНВЕСТИЦІЙ ТА ЗАОЩАДЖЕНЬ",
+    "nameEng": "BANK FOR INVESTMENTS AND SAVINGS",
+    "bank_id": 37
+  },
+  {
+    "first": "419324",
+    "name": "БАНК ІНВЕСТИЦІЙ ТА ЗАОЩАДЖЕНЬ",
+    "nameEng": "BANK FOR INVESTMENTS AND SAVINGS",
+    "bank_id": 37
+  },
+  {
+    "first": "419325",
+    "name": "БАНК ІНВЕСТИЦІЙ ТА ЗАОЩАДЖЕНЬ",
+    "nameEng": "BANK FOR INVESTMENTS AND SAVINGS",
+    "bank_id": 37
+  },
+  {
+    "first": "419326",
+    "name": "БАНК ІНВЕСТИЦІЙ ТА ЗАОЩАДЖЕНЬ",
+    "nameEng": "BANK FOR INVESTMENTS AND SAVINGS",
+    "bank_id": 37
+  },
+  {
+    "first": "419327",
+    "name": "БАНК ІНВЕСТИЦІЙ ТА ЗАОЩАДЖЕНЬ",
+    "nameEng": "BANK FOR INVESTMENTS AND SAVINGS",
+    "bank_id": 37
+  },
+  {
+    "first": "458215",
+    "name": "БАНК ІНВЕСТИЦІЙ ТА ЗАОЩАДЖЕНЬ",
+    "nameEng": "BANK FOR INVESTMENTS AND SAVINGS",
+    "bank_id": 37
+  },
+  {
+    "first": "422675",
+    "name": "БТА БАНК",
+    "nameEng": "BTA BANK",
+    "bank_id": 38
+  },
+  {
+    "first": "444801",
+    "name": "БТА БАНК",
+    "nameEng": "BTA BANK",
+    "bank_id": 38
+  },
+  {
+    "first": "444802",
+    "name": "БТА БАНК",
+    "nameEng": "BTA BANK",
+    "bank_id": 38
+  },
+  {
+    "first": "444803",
+    "name": "БТА БАНК",
+    "nameEng": "BTA BANK",
+    "bank_id": 38
+  },
+  {
+    "first": "444804",
+    "name": "БТА БАНК",
+    "nameEng": "BTA BANK",
+    "bank_id": 38
+  },
+  {
+    "first": "444805",
+    "name": "БТА БАНК",
+    "nameEng": "BTA BANK",
+    "bank_id": 38
+  },
+  {
+    "first": "404275",
+    "name": "ПРАВЕКС-БАНК",
+    "nameEng": "PRAVEX-BANK",
+    "bank_id": 6
+  },
+  {
+    "first": "409624",
+    "name": "ПРАВЕКС-БАНК",
+    "nameEng": "PRAVEX-BANK",
+    "bank_id": 6
+  },
+  {
+    "first": "409879",
+    "name": "ПРАВЕКС-БАНК",
+    "nameEng": "PRAVEX-BANK",
+    "bank_id": 6
+  },
+  {
+    "first": "439049",
+    "name": "ПРАВЕКС-БАНК",
+    "nameEng": "PRAVEX-BANK",
+    "bank_id": 6
+  },
+  {
+    "first": "461274",
+    "name": "ПРАВЕКС-БАНК",
+    "nameEng": "PRAVEX-BANK",
+    "bank_id": 6
+  },
+  {
+    "first": "461276",
+    "name": "ПРАВЕКС-БАНК",
+    "nameEng": "PRAVEX-BANK",
+    "bank_id": 6
+  },
+  {
+    "first": "461277",
+    "name": "ПРАВЕКС-БАНК",
+    "nameEng": "PRAVEX-BANK",
+    "bank_id": 6
+  },
+  {
+    "first": "411872",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "417395",
+    "name": "Креді Агріколь Банк",
+    "nameEng": "Credit Agricole",
+    "bank_id": 1
+  },
+  {
+    "first": "439024",
+    "name": "Креді Агріколь Банк",
+    "nameEng": "Credit Agricole",
+    "bank_id": 1
+  },
+  {
+    "first": "439025",
+    "name": "Креді Агріколь Банк",
+    "nameEng": "Credit Agricole",
+    "bank_id": 1
+  },
+  {
+    "first": "439038",
+    "name": "Креді Агріколь Банк",
+    "nameEng": "Credit Agricole",
+    "bank_id": 1
+  },
+  {
+    "first": "439039",
+    "name": "Креді Агріколь Банк",
+    "nameEng": "Credit Agricole",
+    "bank_id": 1
+  },
+  {
+    "first": "406989",
+    "name": "Идея Банк",
+    "nameEng": "IDEA BANK",
+    "bank_id": 39
+  },
+  {
+    "first": "457732",
+    "name": "Идея Банк",
+    "nameEng": "IDEA BANK",
+    "bank_id": 39
+  },
+  {
+    "first": "457856",
+    "name": "Идея Банк",
+    "nameEng": "IDEA BANK",
+    "bank_id": 39
+  },
+  {
+    "first": "402631",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "402632",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "402633",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "402634",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "406980",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "415840",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "429943",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "484772",
+    "name": "Банк Львів",
+    "nameEng": "LVIV",
+    "bank_id": 40
+  },
+  {
+    "first": "484773",
+    "name": "Банк Львів",
+    "nameEng": "LVIV",
+    "bank_id": 40
+  },
+  {
+    "first": "484774",
+    "name": "Банк Львів",
+    "nameEng": "LVIV",
+    "bank_id": 40
+  },
+  {
+    "first": "484775",
+    "name": "Банк Львів",
+    "nameEng": "LVIV",
+    "bank_id": 40
+  },
+  {
+    "first": "428615",
+    "name": "ТРАСТ-КАПИТАЛ",
+    "nameEng": "TRUST-CAPITAL",
+    "bank_id": 41
+  },
+  {
+    "first": "428616",
+    "name": "ТРАСТ-КАПИТАЛ",
+    "nameEng": "TRUST-CAPITAL",
+    "bank_id": 41
+  },
+  {
+    "first": "428617",
+    "name": "ТРАСТ-КАПИТАЛ",
+    "nameEng": "TRUST-CAPITAL",
+    "bank_id": 41
+  },
+  {
+    "first": "428618",
+    "name": "ТРАСТ-КАПИТАЛ",
+    "nameEng": "TRUST-CAPITAL",
+    "bank_id": 41
+  },
+  {
+    "first": "402454",
+    "name": "МТБ БАНК",
+    "nameEng": "MARFIN BANK",
+    "bank_id": 42
+  },
+  {
+    "first": "426046",
+    "name": "МТБ БАНК",
+    "nameEng": "MARFIN BANK",
+    "bank_id": 42
+  },
+  {
+    "first": "426047",
+    "name": "МТБ БАНК",
+    "nameEng": "MARFIN BANK",
+    "bank_id": 42
+  },
+  {
+    "first": "426048",
+    "name": "МТБ БАНК",
+    "nameEng": "MARFIN BANK",
+    "bank_id": 42
+  },
+  {
+    "first": "426049",
+    "name": "МТБ БАНК",
+    "nameEng": "MARFIN BANK",
+    "bank_id": 42
+  },
+  {
+    "first": "429732",
+    "name": "МТБ БАНК",
+    "nameEng": "MARFIN BANK",
+    "bank_id": 42
+  },
+  {
+    "first": "429733",
+    "name": "МТБ БАНК",
+    "nameEng": "MARFIN BANK",
+    "bank_id": 42
+  },
+  {
+    "first": "457705",
+    "name": "Піреус Банк",
+    "nameEng": "PIRAEUS BANK",
+    "bank_id": 30
+  },
+  {
+    "first": "457706",
+    "name": "Піреус Банк",
+    "nameEng": "PIRAEUS BANK",
+    "bank_id": 30
+  },
+  {
+    "first": "472472",
+    "name": "Піреус Банк",
+    "nameEng": "PIRAEUS BANK",
+    "bank_id": 30
+  },
+  {
+    "first": "472473",
+    "name": "Піреус Банк",
+    "nameEng": "PIRAEUS BANK",
+    "bank_id": 30
+  },
+  {
+    "first": "472474",
+    "name": "Піреус Банк",
+    "nameEng": "PIRAEUS BANK",
+    "bank_id": 30
+  },
+  {
+    "first": "472475",
+    "name": "Піреус Банк",
+    "nameEng": "PIRAEUS BANK",
+    "bank_id": 30
+  },
+  {
+    "first": "472282",
+    "name": "ТАСКОМБАНК",
+    "nameEng": "TASCOMBANK",
+    "bank_id": 18
+  },
+  {
+    "first": "429965",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "431222",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "431223",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "407360",
+    "name": "УКРСИББАНК",
+    "nameEng": "Ukrsibbank",
+    "bank_id": 13
+  },
+  {
+    "first": "407362",
+    "name": "УКРСИББАНК",
+    "nameEng": "Ukrsibbank",
+    "bank_id": 13
+  },
+  {
+    "first": "407363",
+    "name": "УКРСИББАНК",
+    "nameEng": "Ukrsibbank",
+    "bank_id": 13
+  },
+  {
+    "first": "407364",
+    "name": "УКРСИББАНК",
+    "nameEng": "Ukrsibbank",
+    "bank_id": 13
+  },
+  {
+    "first": "407365",
+    "name": "УКРСИББАНК",
+    "nameEng": "Ukrsibbank",
+    "bank_id": 13
+  },
+  {
+    "first": "407366",
+    "name": "УКРСИББАНК",
+    "nameEng": "Ukrsibbank",
+    "bank_id": 13
+  },
+  {
+    "first": "417675",
+    "name": "ПроКредит Банк",
+    "nameEng": "ProCredit Bank",
+    "bank_id": 8
+  },
+  {
+    "first": "433423",
+    "name": "ПроКредит Банк",
+    "nameEng": "ProCredit Bank",
+    "bank_id": 8
+  },
+  {
+    "first": "477994",
+    "name": "Проминвестбанк",
+    "nameEng": "PROMINVESTBANK",
+    "bank_id": 43
+  },
+  {
+    "first": "477995",
+    "name": "Проминвестбанк",
+    "nameEng": "PROMINVESTBANK",
+    "bank_id": 43
+  },
+  {
+    "first": "421090",
+    "name": "Проминвестбанк",
+    "nameEng": "PROMINVESTBANK",
+    "bank_id": 43
+  },
+  {
+    "first": "403304",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "414952",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "423922",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "460160",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "462773",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "462774",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "464169",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "467809",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "478389",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "493191",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "440297",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "454644",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "413416",
+    "name": "ТАСКОМБАНК",
+    "nameEng": "TASCOMBANK",
+    "bank_id": 18
+  },
+  {
+    "first": "413417",
+    "name": "ТАСКОМБАНК",
+    "nameEng": "TASCOMBANK",
+    "bank_id": 18
+  },
+  {
+    "first": "431221",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "400644",
+    "name": "ЮНЕКС БАНК",
+    "nameEng": "UNEX BANK",
+    "bank_id": 44
+  },
+  {
+    "first": "410361",
+    "name": "ЮНЕКС БАНК",
+    "nameEng": "UNEX BANK",
+    "bank_id": 44
+  },
+  {
+    "first": "410362",
+    "name": "ЮНЕКС БАНК",
+    "nameEng": "UNEX BANK",
+    "bank_id": 44
+  },
+  {
+    "first": "410363",
+    "name": "ЮНЕКС БАНК",
+    "nameEng": "UNEX BANK",
+    "bank_id": 44
+  },
+  {
+    "first": "410383",
+    "name": "ЮНЕКС БАНК",
+    "nameEng": "UNEX BANK",
+    "bank_id": 44
+  },
+  {
+    "first": "516797",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "516825",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "516916",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "516917",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "516918",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "521432",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "535128",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "542447",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "557387",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "544032",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "544072",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "547434",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "516773",
+    "name": "Креді Агріколь Банк",
+    "nameEng": "Credit Agricole",
+    "bank_id": 1
+  },
+  {
+    "first": "517396",
+    "name": "Креді Агріколь Банк",
+    "nameEng": "Credit Agricole",
+    "bank_id": 1
+  },
+  {
+    "first": "528806",
+    "name": "Креді Агріколь Банк",
+    "nameEng": "Credit Agricole",
+    "bank_id": 1
+  },
+  {
+    "first": "545172",
+    "name": "Креді Агріколь Банк",
+    "nameEng": "Credit Agricole",
+    "bank_id": 1
+  },
+  {
+    "first": "511782",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "516089",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "516807",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "516864",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "516865",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "516866",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "535173",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "535862",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "537478",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "538178",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "542435",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "516760",
+    "name": "Діамантбанк",
+    "nameEng": "Diamantbank",
+    "bank_id": 2
+  },
+  {
+    "first": "535252",
+    "name": "Діамантбанк",
+    "nameEng": "Diamantbank",
+    "bank_id": 2
+  },
+  {
+    "first": "547755",
+    "name": "Діамантбанк",
+    "nameEng": "Diamantbank",
+    "bank_id": 2
+  },
+  {
+    "first": "510104",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "510105",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "513999",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "523933",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "515768",
+    "name": "Кредобанк",
+    "nameEng": "KredoBank",
+    "bank_id": 3
+  },
+  {
+    "first": "516801",
+    "name": "Кредобанк",
+    "nameEng": "KredoBank",
+    "bank_id": 3
+  },
+  {
+    "first": "516802",
+    "name": "Кредобанк",
+    "nameEng": "KredoBank",
+    "bank_id": 3
+  },
+  {
+    "first": "516803",
+    "name": "Кредобанк",
+    "nameEng": "KredoBank",
+    "bank_id": 3
+  },
+  {
+    "first": "516804",
+    "name": "Кредобанк",
+    "nameEng": "KredoBank",
+    "bank_id": 3
+  },
+  {
+    "first": "520143",
+    "name": "Кредобанк",
+    "nameEng": "KredoBank",
+    "bank_id": 3
+  },
+  {
+    "first": "535134",
+    "name": "Кредобанк",
+    "nameEng": "KredoBank",
+    "bank_id": 3
+  },
+  {
+    "first": "535556",
+    "name": "Кредобанк",
+    "nameEng": "KredoBank",
+    "bank_id": 3
+  },
+  {
+    "first": "545164",
+    "name": "Кредобанк",
+    "nameEng": "KredoBank",
+    "bank_id": 3
+  },
+  {
+    "first": "557103",
+    "name": "Кредобанк",
+    "nameEng": "KredoBank",
+    "bank_id": 3
+  },
+  {
+    "first": "510477",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "516781",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "517474",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "523406",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "524608",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "527410",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "530409",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "530778",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "531965",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "535206",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "549022",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "542667",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "516958",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "527464",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "529039",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "532015",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "532099",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "534485",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "534612",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "535044",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "535215",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "535216",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "535305",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "545239",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "545784",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "545808",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "547603",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "548855",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "559269",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "516870",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "516890",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "516928",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "516946",
+    "name": "Індустріалбанк",
+    "nameEng": "INDUSTRIAL BANK",
+    "bank_id": 28
+  },
+  {
+    "first": "557844",
+    "name": "ІНГ Банк Україна",
+    "nameEng": "ING BANK UKRAINE",
+    "bank_id": 45
+  },
+  {
+    "first": "557845",
+    "name": "ІНГ Банк Україна",
+    "nameEng": "ING BANK UKRAINE",
+    "bank_id": 45
+  },
+  {
+    "first": "524487",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "525691",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "525779",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "526763",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "528459",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "528472",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "534587",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "557442",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "557443",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "557444",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "534422",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "534625",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "536085",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "557393",
+    "name": "Пивденный",
+    "nameEng": "Pivdennyi",
+    "bank_id": 22
+  },
+  {
+    "first": "545264",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "547625",
+    "name": "Ощадбанк",
+    "nameEng": "Oschadbank",
+    "bank_id": 4
+  },
+  {
+    "first": "521398",
+    "name": "Универсал Банк",
+    "nameEng": "UNIVERSAL BANK",
+    "bank_id": 33
+  },
+  {
+    "first": "537571",
+    "name": "Универсал Банк",
+    "nameEng": "UNIVERSAL BANK",
+    "bank_id": 33
+  },
+  {
+    "first": "538808",
+    "name": "Универсал Банк",
+    "nameEng": "UNIVERSAL BANK",
+    "bank_id": 33
+  },
+  {
+    "first": "510093",
+    "name": "OTP Bank",
+    "nameEng": "OTP Bank",
+    "bank_id": 5
+  },
+  {
+    "first": "522864",
+    "name": "OTP Bank",
+    "nameEng": "OTP Bank",
+    "bank_id": 5
+  },
+  {
+    "first": "517268",
+    "name": "БАНК КРЕДИТ ДНЕПР",
+    "nameEng": "CREDIT-DNEPR",
+    "bank_id": 17
+  },
+  {
+    "first": "517944",
+    "name": "БАНК КРЕДИТ ДНЕПР",
+    "nameEng": "CREDIT-DNEPR",
+    "bank_id": 17
+  },
+  {
+    "first": "557814",
+    "name": "БАНК КРЕДИТ ДНЕПР",
+    "nameEng": "CREDIT-DNEPR",
+    "bank_id": 17
+  },
+  {
+    "first": "557815",
+    "name": "БАНК КРЕДИТ ДНЕПР",
+    "nameEng": "CREDIT-DNEPR",
+    "bank_id": 17
+  },
+  {
+    "first": "558327",
+    "name": "БАНК КРЕДИТ ДНЕПР",
+    "nameEng": "CREDIT-DNEPR",
+    "bank_id": 17
+  },
+  {
+    "first": "559644",
+    "name": "БАНК КРЕДИТ ДНЕПР",
+    "nameEng": "CREDIT-DNEPR",
+    "bank_id": 17
+  },
+  {
+    "first": "516822",
+    "name": "Форвард Банк",
+    "nameEng": "FORWARD BANK",
+    "bank_id": 29
+  },
+  {
+    "first": "517464",
+    "name": "Форвард Банк",
+    "nameEng": "FORWARD BANK",
+    "bank_id": 29
+  },
+  {
+    "first": "521364",
+    "name": "Форвард Банк",
+    "nameEng": "FORWARD BANK",
+    "bank_id": 29
+  },
+  {
+    "first": "522064",
+    "name": "Форвард Банк",
+    "nameEng": "FORWARD BANK",
+    "bank_id": 29
+  },
+  {
+    "first": "523530",
+    "name": "Форвард Банк",
+    "nameEng": "FORWARD BANK",
+    "bank_id": 29
+  },
+  {
+    "first": "536401",
+    "name": "Форвард Банк",
+    "nameEng": "FORWARD BANK",
+    "bank_id": 29
+  },
+  {
+    "first": "549287",
+    "name": "Форвард Банк",
+    "nameEng": "FORWARD BANK",
+    "bank_id": 29
+  },
+  {
+    "first": "549313",
+    "name": "Форвард Банк",
+    "nameEng": "FORWARD BANK",
+    "bank_id": 29
+  },
+  {
+    "first": "516813",
+    "name": "БАНК ВОСТОК",
+    "nameEng": "Bank Vostok",
+    "bank_id": 20
+  },
+  {
+    "first": "517328",
+    "name": "БАНК ВОСТОК",
+    "nameEng": "Bank Vostok",
+    "bank_id": 20
+  },
+  {
+    "first": "522847",
+    "name": "БАНК ВОСТОК",
+    "nameEng": "Bank Vostok",
+    "bank_id": 20
+  },
+  {
+    "first": "523502",
+    "name": "БАНК ВОСТОК",
+    "nameEng": "Bank Vostok",
+    "bank_id": 20
+  },
+  {
+    "first": "526485",
+    "name": "БАНК ВОСТОК",
+    "nameEng": "Bank Vostok",
+    "bank_id": 20
+  },
+  {
+    "first": "535189",
+    "name": "БАНК ВОСТОК",
+    "nameEng": "Bank Vostok",
+    "bank_id": 20
+  },
+  {
+    "first": "535190",
+    "name": "БАНК ВОСТОК",
+    "nameEng": "Bank Vostok",
+    "bank_id": 20
+  },
+  {
+    "first": "535191",
+    "name": "БАНК ВОСТОК",
+    "nameEng": "Bank Vostok",
+    "bank_id": 20
+  },
+  {
+    "first": "535255",
+    "name": "БАНК ВОСТОК",
+    "nameEng": "Bank Vostok",
+    "bank_id": 20
+  },
+  {
+    "first": "542996",
+    "name": "БАНК ВОСТОК",
+    "nameEng": "Bank Vostok",
+    "bank_id": 20
+  },
+  {
+    "first": "544649",
+    "name": "БАНК ВОСТОК",
+    "nameEng": "Bank Vostok",
+    "bank_id": 20
+  },
+  {
+    "first": "552717",
+    "name": "БАНК ВОСТОК",
+    "nameEng": "Bank Vostok",
+    "bank_id": 20
+  },
+  {
+    "first": "557740",
+    "name": "БАНК ВОСТОК",
+    "nameEng": "Bank Vostok",
+    "bank_id": 20
+  },
+  {
+    "first": "516855",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "516856",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "516859",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "516860",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "516941",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "535289",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "549338",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "550215",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "544667",
+    "name": "Піреус Банк",
+    "nameEng": "PIRAEUS BANK",
+    "bank_id": 30
+  },
+  {
+    "first": "516799",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "530565",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "531854",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "535196",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "535555",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "544179",
+    "name": "Сенс Банк",
+    "nameEng": "Sense Bank",
+    "bank_id": 0
+  },
+  {
+    "first": "512785",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "515791",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "515829",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "516768",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "516853",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "516857",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "518164",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "522753",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "524650",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "527458",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "527794",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "530051",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "531673",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "531848",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "534472",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "535428",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "535439",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "535440",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "535454",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "535455",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "535508",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "535509",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "535510",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "537663",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "542065",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "544277",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "549849",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "549853",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "552011",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "557109",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "557394",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "557395",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "557728",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "516951",
+    "name": "ТАСКОМБАНК",
+    "nameEng": "TASCOMBANK",
+    "bank_id": 18
+  },
+  {
+    "first": "516954",
+    "name": "ТАСКОМБАНК",
+    "nameEng": "TASCOMBANK",
+    "bank_id": 18
+  },
+  {
+    "first": "526961",
+    "name": "ТАСКОМБАНК",
+    "nameEng": "TASCOMBANK",
+    "bank_id": 18
+  },
+  {
+    "first": "530185",
+    "name": "ТАСКОМБАНК",
+    "nameEng": "TASCOMBANK",
+    "bank_id": 18
+  },
+  {
+    "first": "535116",
+    "name": "ТАСКОМБАНК",
+    "nameEng": "TASCOMBANK",
+    "bank_id": 18
+  },
+  {
+    "first": "535117",
+    "name": "ТАСКОМБАНК",
+    "nameEng": "TASCOMBANK",
+    "bank_id": 18
+  },
+  {
+    "first": "537162",
+    "name": "ТАСКОМБАНК",
+    "nameEng": "TASCOMBANK",
+    "bank_id": 18
+  },
+  {
+    "first": "537456",
+    "name": "ТАСКОМБАНК",
+    "nameEng": "TASCOMBANK",
+    "bank_id": 18
+  },
+  {
+    "first": "537457",
+    "name": "ТАСКОМБАНК",
+    "nameEng": "TASCOMBANK",
+    "bank_id": 18
+  },
+  {
+    "first": "537553",
+    "name": "ТАСКОМБАНК",
+    "nameEng": "TASCOMBANK",
+    "bank_id": 18
+  },
+  {
+    "first": "551045",
+    "name": "ТАСКОМБАНК",
+    "nameEng": "TASCOMBANK",
+    "bank_id": 18
+  },
+  {
+    "first": "557437",
+    "name": "ТАСКОМБАНК",
+    "nameEng": "TASCOMBANK",
+    "bank_id": 18
+  },
+  {
+    "first": "559649",
+    "name": "ТАСКОМБАНК",
+    "nameEng": "TASCOMBANK",
+    "bank_id": 18
+  },
+  {
+    "first": "535606",
+    "name": "БТА БАНК",
+    "nameEng": "BTA BANK",
+    "bank_id": 38
+  },
+  {
+    "first": "535607",
+    "name": "БТА БАНК",
+    "nameEng": "BTA BANK",
+    "bank_id": 38
+  },
+  {
+    "first": "535608",
+    "name": "БТА БАНК",
+    "nameEng": "BTA BANK",
+    "bank_id": 38
+  },
+  {
+    "first": "545083",
+    "name": "БТА БАНК",
+    "nameEng": "BTA BANK",
+    "bank_id": 38
+  },
+  {
+    "first": "545527",
+    "name": "БТА БАНК",
+    "nameEng": "BTA BANK",
+    "bank_id": 38
+  },
+  {
+    "first": "552665",
+    "name": "БТА БАНК",
+    "nameEng": "BTA BANK",
+    "bank_id": 38
+  },
+  {
+    "first": "521152",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "535145",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "544013",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "557721",
+    "name": "ПриватБанк",
+    "nameEng": "Privatbank",
+    "bank_id": 7
+  },
+  {
+    "first": "535277",
+    "name": "КОНКОРД",
+    "nameEng": "CONCORD",
+    "bank_id": 21
+  },
+  {
+    "first": "535278",
+    "name": "КОНКОРД",
+    "nameEng": "CONCORD",
+    "bank_id": 21
+  },
+  {
+    "first": "545201",
+    "name": "КОНКОРД",
+    "nameEng": "CONCORD",
+    "bank_id": 21
+  },
+  {
+    "first": "511695",
+    "name": "УКРСИББАНК",
+    "nameEng": "Ukrsibbank",
+    "bank_id": 13
+  },
+  {
+    "first": "522871",
+    "name": "УКРСИББАНК",
+    "nameEng": "Ukrsibbank",
+    "bank_id": 13
+  },
+  {
+    "first": "523648",
+    "name": "УКРСИББАНК",
+    "nameEng": "Ukrsibbank",
+    "bank_id": 13
+  },
+  {
+    "first": "557099",
+    "name": "УКРСИББАНК",
+    "nameEng": "Ukrsibbank",
+    "bank_id": 13
+  },
+  {
+    "first": "557100",
+    "name": "УКРСИББАНК",
+    "nameEng": "Ukrsibbank",
+    "bank_id": 13
+  },
+  {
+    "first": "558259",
+    "name": "УКРСИББАНК",
+    "nameEng": "Ukrsibbank",
+    "bank_id": 13
+  },
+  {
+    "first": "521813",
+    "name": "ПРАВЕКС-БАНК",
+    "nameEng": "PRAVEX-BANK",
+    "bank_id": 6
+  },
+  {
+    "first": "522433",
+    "name": "ПРАВЕКС-БАНК",
+    "nameEng": "PRAVEX-BANK",
+    "bank_id": 6
+  },
+  {
+    "first": "537437",
+    "name": "ПРАВЕКС-БАНК",
+    "nameEng": "PRAVEX-BANK",
+    "bank_id": 6
+  },
+  {
+    "first": "541698",
+    "name": "ПРАВЕКС-БАНК",
+    "nameEng": "PRAVEX-BANK",
+    "bank_id": 6
+  },
+  {
+    "first": "557722",
+    "name": "ПРАВЕКС-БАНК",
+    "nameEng": "PRAVEX-BANK",
+    "bank_id": 6
+  },
+  {
+    "first": "535208",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "516048",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "516692",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "516739",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "516755",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "516756",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "516758",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "516761",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "516769",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "516792",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "516824",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "516830",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "516845",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "516863",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "516899",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "517404",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "517489",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "518623",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "521513",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "525626",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "526846",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "527039",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "529244",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "532197",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "535118",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "535119",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "535124",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "535125",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "535207",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "535261",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "537482",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "540931",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "541733",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "543973",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "544362",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "544847",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "547987",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "549820",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "552709",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "554956",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "557088",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "557089",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "557825",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "557826",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "558376",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "558422",
+    "name": "ПУМБ",
+    "nameEng": "FUIB",
+    "bank_id": 9
+  },
+  {
+    "first": "522466",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "525485",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "535161",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "535162",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "535174",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "536421",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "542662",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "544509",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "548735",
+    "name": "УКРГАЗБАНК",
+    "nameEng": "Ukrgasbank",
+    "bank_id": 12
+  },
+  {
+    "first": "518158",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "527166",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "527220",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "530539",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "535148",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "535149",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "535150",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "535515",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "535516",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "535540",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "547733",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "547846",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "557090",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "557091",
+    "name": "Райффайзен Банк Аваль",
+    "nameEng": "Raiffeisen Bank Aval",
+    "bank_id": 10
+  },
+  {
+    "first": "535130",
+    "name": "УКРСИББАНК",
+    "nameEng": "Ukrsibbank",
+    "bank_id": 13
+  },
+  {
+    "first": "516877",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "516879",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "516880",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "516886",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "525748",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "544502",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "554955",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "557077",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "557078",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "557096",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "515883",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "516881",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "535275",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "535293",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "548388",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "549210",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "557743",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "557832",
+    "name": "Укрэксимбанк",
+    "nameEng": "Ukreximbank",
+    "bank_id": 11
+  },
+  {
+    "first": "535838",
+    "name": "Монобанк",
+    "nameEng": "Monobank",
+    "bank_id": 16
+  },
+  {
+    "first": "444111",
+    "name": "Монобанк",
+    "nameEng": "Monobank",
+    "bank_id": 16
+  },
+  {
+    "first": "444111",
+    "name": "Монобанк",
+    "nameEng": "Monobank",
+    "bank_id": 16
+  },
+  {
+    "first": "432334",
+    "name": "А-Банк",
+    "nameEng": "AKTSENT BANK",
+    "bank_id": 19
+  }
+]
