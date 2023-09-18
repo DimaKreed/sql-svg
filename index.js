@@ -1,14 +1,13 @@
 const fs = require("fs");
-const { svg64 } = require("svg64");
 const banksData = require("./banks.json");
 
 const getBase64From = (filePath) => {
   try {
     // Read the SVG file synchronously
-    const svgData = fs.readFileSync(filePath, "utf-8");
+    const svgData = fs.readFileSync(filePath);
 
     // Convert the SVG data to base64
-    const base64Data = svg64(svgData);
+    const base64Data = svgData.toString("base64");
 
     return base64Data;
   } catch (err) {
@@ -19,10 +18,10 @@ const getBase64From = (filePath) => {
 };
 
 const getUndefinedBankSvgBase64 = () => {
-  const svgData = fs.readFileSync("logos/undefinedbank.svg", "utf-8");
+  const svgData = fs.readFileSync("logos/undefinedbank.svg");
 
   // Convert the SVG data to base64
-  const base64Data = svg64(svgData);
+  const base64Data = svgData.toString("base64");
 
   return base64Data;
 };
@@ -68,6 +67,6 @@ insertSqlStatement += insertBanksStatement(
   "000000",
   "Карта Банку",
   "Bank Card",
-  numOfBanks+1
+  numOfBanks + 1
 );
-// fs.writeFileSync("sql.txt", insertSqlStatement);
+fs.writeFileSync("sql.txt", insertSqlStatement);
